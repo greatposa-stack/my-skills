@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "name": "my-skills",
+    "description": "우리팀 스킬 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "game-update-report-v2",
+      "description": "게임 업데이트 성과 분석 보고서 자동 생성 스킬 v2",
+      "source": ".",
+      "skills": ["./skills/game-update-report-v2"]
+    }
+  ]
+}
